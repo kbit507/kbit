@@ -5,12 +5,12 @@ using UnityEngine;
 public class test : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
-		
+	void Start(){
+	Debug.Log(“Hello! GitHub!!!”);
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-		
+
 	}
 }
